@@ -25,17 +25,17 @@ PM_START = """Hello {}, my name is {}!
 I know what it's like to lose. To feel so desperately that you're right, yet to fail nonetheless. Dread it. Run from it.
 Destiny still arrives. Or should I say, I have.
 
-I'm world manager bot maintained by [this awesome person](https://t.me/shivamkchoudhary)!
+I am The Best [Female Bot](https://t.me/SunnyLeone_Probot) On Telegram
+
+I'm world manager bot maintained by [this awesome person](https://t.me/CaptainCrazy)!
 
 Click Help button to find out more about how to use me to my full potential.
 
-Special Thanks to @Prakaska sar
+Special Thanks to @CaptainCrazy 
 
-My Souce Available Here [Source](https://github.com/shivamkchoudhary/HarukaAya)
+Want to add me to your group? [Click here!](t.me/SunnyLeone_Probot?startgroup=true)
 
-Want to add me to your group? [Click here!](t.me/ThaNos_TheBot?startgroup=true)
-
-Earth. That is my price.!"""
+I am Priceless , You will not Get any bot Like me On Telegram.."""
 
 
 IMPORTED = {}
