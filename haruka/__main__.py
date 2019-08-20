@@ -25,15 +25,15 @@ PM_START = """Hello {}, my name is {}!
 I know what it's like to lose. To feel so desperately that you're right, yet to fail nonetheless. Dread it. Run from it.
 Destiny still arrives. Or should I say, I have.
 
-I am The Best [Female Bot](https://t.me/SunnyLeone_Probot) On Telegram
+I am The Best [GangSter Bot](https://t.me/Gaitonde_TheBot) On Telegram
 
-I'm world manager bot maintained by [this awesome person](https://t.me/CaptainCrazy)!
+I'm world manager bot maintained by [this awesome person](https://t.me/GoldenSkull_xD)!
 
 Click Help button to find out more about how to use me to my full potential.
 
 Special Thanks to @CaptainCrazy 
 
-Want to add me to your group? [Click here!](t.me/SunnyLeone_Probot?startgroup=true)
+Want to add me to your group? [Click here!](t.me/Gaitonde_TheBot?startgroup=true)
 
 I am Priceless , You will not Get any bot Like me On Telegram.."""
 
