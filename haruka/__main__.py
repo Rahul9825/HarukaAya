@@ -22,6 +22,8 @@ from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}!
 
+Jake Dekh Record Me Bot Hai Ki Bhagwaan Hai!!!
+
 I know what it's like to lose. To feel so desperately that you're right, yet to fail nonetheless. Dread it. Run from it.
 Destiny still arrives. Or should I say, I have.
 
